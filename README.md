@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="PicPay clone Interface" src="https://raw.githubusercontent.com/Sup3r-Us3r/picpay-clone/master/src/images/picpaycloneapp.png" />
+  <img alt="PicPay clone Interface" src="https://raw.githubusercontent.com/Sup3r-Us3r/picpay-clone/master/src/images/picpaycloneapp.png" height="500" />
 </h1>
 
 <h3 align="center">PicPay Clone UI</h3>
